@@ -19,3 +19,5 @@
 5. Reset Quantities: Select a recipe and click "Reset Quantities".
 6. Clear All Recipes: Click "Clear All Recipes".
 
+https://github.com/ST10283550/POEWEDE
+
