@@ -1,6 +1,3 @@
-
-The Recipe Management Program helps users manage recipes efficiently by allowing filtering, adding, displaying, scaling, and clearing recipes.
-
  Features
 - Filter Recipes: By ingredient, food group, and calories.
 - Add Recipe: Enter recipe name, ingredients, and steps.
